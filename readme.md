@@ -1,1 +1,1 @@
-This is a amazon clone using HTML, CSS, tailwindcss.
+This is a amazon clone using HTML, CSS, tailwindcss and javascript.
