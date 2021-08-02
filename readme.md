@@ -1,4 +1,4 @@
-#All my personal project with their repo and deploy link:
+# All my personal project with their repo and deploy link:
 
 1. Project Name:  Amazon Clone:
     - Branch Link:  [link](https://github.com/ansulagrawal/projects/tree/amazone-clone)
